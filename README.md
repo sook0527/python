@@ -1,2 +1,2 @@
-# python & Beginer
+# python & Beginner
 ###내꺼!!
